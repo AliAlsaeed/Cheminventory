@@ -1,0 +1,66 @@
+<?php
+require 'config.php';
+require 'inc/session.php';
+
+if(isset($_POST['a']) && isset($_POST['user']) && isset($_POST['pass'])) {
+	$user = $_POST['user'];
+	$pass = $_POST['pass'];
+	if($user == '' || $pass == '') die('2');
+	
+	if($_session->login($user, $pass) == false)
+		die('1');
+	die('3');
+}
+
+if($_session->isLogged())
+	header('Location: items.php');
+?>
+<!DOCTYPE HTML>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=no" />
+	<title>Invento - Login</title>
+	
+	<link type="text/css" rel="stylesheet" href="media/css/login.css" media="all" />
+	<link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+	<link href="http://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,600" rel="stylesheet" type="text/css">
+	<link rel="icon" href="media/img/favicon.ico" type="image/x-icon" />
+	
+	<script type="text/javascript" src="media/js/jquery.min.js"></script>
+	<script type="text/javascript" src="media/js/login.js"></script>
+</head>
+<body>
+    
+    <div class="video-background">
+    <div class="video-foreground">
+      <iframe src="https://www.youtube.com/embed/R0saGM4CDqY?controls=0&showinfo=0&rel=0&autoplay=1&loop=1&playlist=W0LHTWG-UmQ" frameborder="0" allowfullscreen></iframe>
+    </div>
+  </div>
+
+<div id="vidtop-content">
+
+</div>
+	<div id="center"></div>
+	
+	<div id="content">
+		<div id="logo">
+			<img src="media/img/logo3x-login.png" width="225" height="75" alt="Invento" />
+		</div>
+		
+		<div id="login">
+			<div id="error"></div>
+			<form method="POST" action="" name="login">
+				USERNAME:<br />
+				<input type="text" name="username" /><br />
+				PASSWORD:<br />
+				<input type="password" name="password" /><br />
+				
+				<img src="media/img/loader.gif" id="loader">
+				<input type="submit" name="send" value="Login" />
+			</form>
+		</div>
+	</div>
+</body>
+</html>

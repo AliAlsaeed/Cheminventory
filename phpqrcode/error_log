@@ -1,0 +1,12 @@
+[14-Mar-2018 03:28:41 UTC] PHP Parse error:  syntax error, unexpected 'value' (T_STRING), expecting ',' or ';' in /home/cheminve/public_html/phpqrcode/index.php on line 79
+[14-Mar-2018 03:29:06 UTC] PHP Parse error:  syntax error, unexpected 'value' (T_STRING), expecting ',' or ';' in /home/cheminve/public_html/phpqrcode/index.php on line 79
+[14-Mar-2018 03:41:30 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/cheminve/public_html/phpqrcode/index.php on line 91
+[14-Mar-2018 03:47:20 UTC] PHP Warning:  require(public_html/config.php): failed to open stream: No such file or directory in /home/cheminve/public_html/phpqrcode/index.php on line 4
+[14-Mar-2018 03:47:20 UTC] PHP Warning:  require(public_html/config.php): failed to open stream: No such file or directory in /home/cheminve/public_html/phpqrcode/index.php on line 4
+[14-Mar-2018 03:47:20 UTC] PHP Fatal error:  require(): Failed opening required 'public_html/config.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cheminve/public_html/phpqrcode/index.php on line 4
+[14-Mar-2018 03:48:01 UTC] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/cheminve/public_html/phpqrcode/index.php on line 4
+[14-Mar-2018 03:48:01 UTC] PHP Warning:  require(config.php): failed to open stream: No such file or directory in /home/cheminve/public_html/phpqrcode/index.php on line 4
+[14-Mar-2018 03:48:01 UTC] PHP Fatal error:  require(): Failed opening required 'config.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cheminve/public_html/phpqrcode/index.php on line 4
+[14-Mar-2018 03:49:26 UTC] PHP Warning:  require(inc/session.php): failed to open stream: No such file or directory in /home/cheminve/public_html/phpqrcode/index.php on line 5
+[14-Mar-2018 03:49:26 UTC] PHP Warning:  require(inc/session.php): failed to open stream: No such file or directory in /home/cheminve/public_html/phpqrcode/index.php on line 5
+[14-Mar-2018 03:49:26 UTC] PHP Fatal error:  require(): Failed opening required 'inc/session.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cheminve/public_html/phpqrcode/index.php on line 5

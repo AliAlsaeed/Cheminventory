@@ -1,0 +1,153 @@
+[12-Apr-2018 05:04:43 UTC] PHP Fatal error:  Cannot redeclare class items in /home/cheminve/public_html/inc/items_core.php on line 3
+[12-Apr-2018 05:20:07 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/cheminve/public_html/inc/items_core.php on line 369
+[12-Apr-2018 05:22:49 UTC] PHP Fatal error:  Cannot redeclare class items in /home/cheminve/public_html/inc/items_core.php on line 3
+[12-Apr-2018 05:23:03 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/cheminve/public_html/inc/items_core.php on line 369
+[12-Apr-2018 05:23:31 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/cheminve/public_html/inc/items_core.php on line 369
+[18-Apr-2018 10:18:06 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php56/sess_br2iu8up2akkk18c830mbptq66, O_RDWR) failed: No such file or directory (2) in /home/cheminve/public_html/config.php on line 2
+[18-Apr-2018 10:18:06 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cheminve/public_html/configg.php on line 40
+[18-Apr-2018 10:18:06 UTC] PHP Fatal error:  Cannot redeclare class Items in /home/cheminve/public_html/inc/items_core.php on line 3
+[18-Apr-2018 10:18:06 UTC] PHP Warning:  Unknown: open(/var/cpanel/php/sessions/ea-php56/sess_br2iu8up2akkk18c830mbptq66, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+[18-Apr-2018 10:18:06 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea-php56) in Unknown on line 0
+[18-Apr-2018 19:08:18 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cheminve/public_html/configg.php on line 40
+[18-Apr-2018 19:08:18 UTC] PHP Fatal error:  Cannot redeclare class Items in /home/cheminve/public_html/inc/items_core.php on line 3
+[18-Apr-2018 21:56:37 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cheminve/public_html/configg.php on line 40
+[18-Apr-2018 21:56:37 UTC] PHP Fatal error:  Cannot redeclare class Items in /home/cheminve/public_html/inc/items_core.php on line 3
+[18-Apr-2018 23:12:38 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cheminve/public_html/configg.php on line 40
+[18-Apr-2018 23:12:38 UTC] PHP Fatal error:  Cannot redeclare class Items in /home/cheminve/public_html/inc/items_core.php on line 3
+[18-Apr-2018 23:12:40 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cheminve/public_html/configg.php on line 40
+[18-Apr-2018 23:12:40 UTC] PHP Fatal error:  Cannot redeclare class Items in /home/cheminve/public_html/inc/items_core.php on line 3
+[18-Apr-2018 23:12:41 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cheminve/public_html/configg.php on line 40
+[18-Apr-2018 23:12:41 UTC] PHP Fatal error:  Cannot redeclare class Items in /home/cheminve/public_html/inc/items_core.php on line 3
+[18-Apr-2018 23:12:42 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cheminve/public_html/configg.php on line 40
+[18-Apr-2018 23:12:42 UTC] PHP Fatal error:  Cannot redeclare class Items in /home/cheminve/public_html/inc/items_core.php on line 3
+[18-Apr-2018 23:12:44 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cheminve/public_html/configg.php on line 40
+[18-Apr-2018 23:12:44 UTC] PHP Fatal error:  Cannot redeclare class Items in /home/cheminve/public_html/inc/items_core.php on line 3
+[18-Apr-2018 23:12:45 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cheminve/public_html/configg.php on line 40
+[18-Apr-2018 23:12:45 UTC] PHP Fatal error:  Cannot redeclare class Items in /home/cheminve/public_html/inc/items_core.php on line 3
+[18-Apr-2018 23:12:48 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cheminve/public_html/configg.php on line 40
+[18-Apr-2018 23:12:48 UTC] PHP Fatal error:  Cannot redeclare class Items in /home/cheminve/public_html/inc/items_core.php on line 3
+[18-Apr-2018 23:12:57 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cheminve/public_html/configg.php on line 40
+[18-Apr-2018 23:12:57 UTC] PHP Fatal error:  Cannot redeclare class Items in /home/cheminve/public_html/inc/items_core.php on line 3
+[18-Apr-2018 23:13:42 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cheminve/public_html/configg.php on line 40
+[18-Apr-2018 23:13:42 UTC] PHP Fatal error:  Cannot redeclare class Items in /home/cheminve/public_html/inc/items_core.php on line 3
+[18-Apr-2018 23:13:48 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cheminve/public_html/configg.php on line 40
+[18-Apr-2018 23:13:48 UTC] PHP Fatal error:  Cannot redeclare class Items in /home/cheminve/public_html/inc/items_core.php on line 3
+[18-Apr-2018 23:13:55 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cheminve/public_html/configg.php on line 40
+[18-Apr-2018 23:13:55 UTC] PHP Fatal error:  Cannot redeclare class Items in /home/cheminve/public_html/inc/items_core.php on line 3
+[18-Apr-2018 23:14:04 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cheminve/public_html/configg.php on line 40
+[18-Apr-2018 23:14:04 UTC] PHP Fatal error:  Cannot redeclare class Items in /home/cheminve/public_html/inc/items_core.php on line 3
+[18-Apr-2018 23:15:17 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cheminve/public_html/configg.php on line 40
+[18-Apr-2018 23:15:17 UTC] PHP Fatal error:  Cannot redeclare class Items in /home/cheminve/public_html/inc/items_core.php on line 3
+[18-Apr-2018 23:15:20 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cheminve/public_html/configg.php on line 40
+[18-Apr-2018 23:15:20 UTC] PHP Fatal error:  Cannot redeclare class Items in /home/cheminve/public_html/inc/items_core.php on line 3
+[18-Apr-2018 23:15:22 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cheminve/public_html/configg.php on line 40
+[18-Apr-2018 23:15:22 UTC] PHP Fatal error:  Cannot redeclare class Items in /home/cheminve/public_html/inc/items_core.php on line 3
+[18-Apr-2018 23:15:23 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cheminve/public_html/configg.php on line 40
+[18-Apr-2018 23:15:23 UTC] PHP Fatal error:  Cannot redeclare class Items in /home/cheminve/public_html/inc/items_core.php on line 3
+[18-Apr-2018 23:15:24 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cheminve/public_html/configg.php on line 40
+[18-Apr-2018 23:15:24 UTC] PHP Fatal error:  Cannot redeclare class Items in /home/cheminve/public_html/inc/items_core.php on line 3
+[18-Apr-2018 23:15:25 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cheminve/public_html/configg.php on line 40
+[18-Apr-2018 23:15:25 UTC] PHP Fatal error:  Cannot redeclare class Items in /home/cheminve/public_html/inc/items_core.php on line 3
+[18-Apr-2018 23:15:26 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cheminve/public_html/configg.php on line 40
+[18-Apr-2018 23:15:26 UTC] PHP Fatal error:  Cannot redeclare class Items in /home/cheminve/public_html/inc/items_core.php on line 3
+[18-Apr-2018 23:15:28 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cheminve/public_html/configg.php on line 40
+[18-Apr-2018 23:15:28 UTC] PHP Fatal error:  Cannot redeclare class Items in /home/cheminve/public_html/inc/items_core.php on line 3
+[18-Apr-2018 23:15:29 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cheminve/public_html/configg.php on line 40
+[18-Apr-2018 23:15:30 UTC] PHP Fatal error:  Cannot redeclare class Items in /home/cheminve/public_html/inc/items_core.php on line 3
+[18-Apr-2018 23:15:31 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cheminve/public_html/configg.php on line 40
+[18-Apr-2018 23:15:31 UTC] PHP Fatal error:  Cannot redeclare class Items in /home/cheminve/public_html/inc/items_core.php on line 3
+[18-Apr-2018 23:15:32 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cheminve/public_html/configg.php on line 40
+[18-Apr-2018 23:15:32 UTC] PHP Fatal error:  Cannot redeclare class Items in /home/cheminve/public_html/inc/items_core.php on line 3
+[18-Apr-2018 23:15:33 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cheminve/public_html/configg.php on line 40
+[18-Apr-2018 23:15:33 UTC] PHP Fatal error:  Cannot redeclare class Items in /home/cheminve/public_html/inc/items_core.php on line 3
+[18-Apr-2018 23:17:00 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cheminve/public_html/configg.php on line 40
+[18-Apr-2018 23:17:00 UTC] PHP Fatal error:  Cannot redeclare class Items in /home/cheminve/public_html/inc/items_core.php on line 3
+[18-Apr-2018 23:17:09 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cheminve/public_html/configg.php on line 40
+[18-Apr-2018 23:17:09 UTC] PHP Fatal error:  Cannot redeclare class Items in /home/cheminve/public_html/inc/items_core.php on line 3
+[18-Apr-2018 23:18:23 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cheminve/public_html/configg.php on line 40
+[18-Apr-2018 23:18:23 UTC] PHP Fatal error:  Cannot redeclare class Items in /home/cheminve/public_html/inc/items_core.php on line 3
+[18-Apr-2018 23:18:28 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cheminve/public_html/configg.php on line 40
+[18-Apr-2018 23:18:28 UTC] PHP Fatal error:  Cannot redeclare class Items in /home/cheminve/public_html/inc/items_core.php on line 3
+[18-Apr-2018 23:18:29 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cheminve/public_html/configg.php on line 40
+[18-Apr-2018 23:18:29 UTC] PHP Fatal error:  Cannot redeclare class Items in /home/cheminve/public_html/inc/items_core.php on line 3
+[18-Apr-2018 23:19:18 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cheminve/public_html/configg.php on line 40
+[18-Apr-2018 23:19:18 UTC] PHP Fatal error:  Cannot redeclare class Items in /home/cheminve/public_html/inc/items_core.php on line 3
+[18-Apr-2018 23:19:50 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cheminve/public_html/configg.php on line 40
+[18-Apr-2018 23:19:50 UTC] PHP Fatal error:  Cannot redeclare class Items in /home/cheminve/public_html/inc/items_core.php on line 3
+[18-Apr-2018 23:20:48 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cheminve/public_html/configg.php on line 40
+[18-Apr-2018 23:20:48 UTC] PHP Fatal error:  Cannot redeclare class Items in /home/cheminve/public_html/inc/items_core.php on line 3
+[18-Apr-2018 23:21:29 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cheminve/public_html/configg.php on line 40
+[18-Apr-2018 23:21:29 UTC] PHP Fatal error:  Cannot redeclare class Items in /home/cheminve/public_html/inc/items_core.php on line 3
+[18-Apr-2018 23:21:46 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cheminve/public_html/configg.php on line 40
+[18-Apr-2018 23:21:46 UTC] PHP Fatal error:  Cannot redeclare class Items in /home/cheminve/public_html/inc/items_core.php on line 3
+[18-Apr-2018 23:22:01 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cheminve/public_html/configg.php on line 40
+[18-Apr-2018 23:22:01 UTC] PHP Fatal error:  Cannot redeclare class Items in /home/cheminve/public_html/inc/items_core.php on line 3
+[18-Apr-2018 23:22:38 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cheminve/public_html/configg.php on line 40
+[18-Apr-2018 23:22:38 UTC] PHP Fatal error:  Cannot redeclare class Items in /home/cheminve/public_html/inc/items_core.php on line 3
+[18-Apr-2018 23:22:41 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cheminve/public_html/configg.php on line 40
+[18-Apr-2018 23:22:41 UTC] PHP Fatal error:  Cannot redeclare class Items in /home/cheminve/public_html/inc/items_core.php on line 3
+[18-Apr-2018 23:22:48 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cheminve/public_html/configg.php on line 40
+[18-Apr-2018 23:22:48 UTC] PHP Fatal error:  Cannot redeclare class Items in /home/cheminve/public_html/inc/items_core.php on line 3
+[18-Apr-2018 23:22:53 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cheminve/public_html/configg.php on line 40
+[18-Apr-2018 23:22:53 UTC] PHP Fatal error:  Cannot redeclare class Items in /home/cheminve/public_html/inc/items_core.php on line 3
+[18-Apr-2018 23:23:12 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cheminve/public_html/configg.php on line 40
+[18-Apr-2018 23:23:12 UTC] PHP Fatal error:  Cannot redeclare class Items in /home/cheminve/public_html/inc/items_core.php on line 3
+[18-Apr-2018 23:23:26 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cheminve/public_html/configg.php on line 40
+[18-Apr-2018 23:23:26 UTC] PHP Fatal error:  Cannot redeclare class Items in /home/cheminve/public_html/inc/items_core.php on line 3
+[18-Apr-2018 23:23:30 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cheminve/public_html/configg.php on line 40
+[18-Apr-2018 23:23:30 UTC] PHP Fatal error:  Cannot redeclare class Items in /home/cheminve/public_html/inc/items_core.php on line 3
+[18-Apr-2018 23:24:11 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cheminve/public_html/configg.php on line 40
+[18-Apr-2018 23:24:14 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cheminve/public_html/configg.php on line 40
+[18-Apr-2018 23:24:14 UTC] PHP Fatal error:  Cannot redeclare class Items in /home/cheminve/public_html/inc/items_core.php on line 3
+[18-Apr-2018 23:24:19 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cheminve/public_html/configg.php on line 40
+[18-Apr-2018 23:24:22 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cheminve/public_html/configg.php on line 40
+[18-Apr-2018 23:24:22 UTC] PHP Fatal error:  Cannot redeclare class Items in /home/cheminve/public_html/inc/items_core.php on line 3
+[18-Apr-2018 23:24:24 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cheminve/public_html/configg.php on line 40
+[18-Apr-2018 23:24:26 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cheminve/public_html/configg.php on line 40
+[18-Apr-2018 23:24:26 UTC] PHP Fatal error:  Cannot redeclare class Items in /home/cheminve/public_html/inc/items_core.php on line 3
+[18-Apr-2018 23:24:32 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cheminve/public_html/configg.php on line 40
+[18-Apr-2018 23:24:32 UTC] PHP Fatal error:  Cannot redeclare class Items in /home/cheminve/public_html/inc/items_core.php on line 3
+[18-Apr-2018 23:27:07 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cheminve/public_html/configg.php on line 40
+[18-Apr-2018 23:27:07 UTC] PHP Fatal error:  Cannot redeclare class Items in /home/cheminve/public_html/inc/items_core.php on line 3
+[18-Apr-2018 23:29:53 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cheminve/public_html/configg.php on line 40
+[18-Apr-2018 23:29:53 UTC] PHP Fatal error:  Cannot redeclare class Items in /home/cheminve/public_html/inc/items_core.php on line 3
+[18-Apr-2018 23:30:02 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cheminve/public_html/configg.php on line 40
+[18-Apr-2018 23:30:02 UTC] PHP Fatal error:  Cannot redeclare class Items in /home/cheminve/public_html/inc/items_core.php on line 3
+[18-Apr-2018 23:30:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cheminve/public_html/configg.php on line 40
+[18-Apr-2018 23:30:56 UTC] PHP Fatal error:  Cannot redeclare class Items in /home/cheminve/public_html/inc/items_core.php on line 3
+[18-Apr-2018 23:32:08 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cheminve/public_html/configg.php on line 40
+[18-Apr-2018 23:32:08 UTC] PHP Fatal error:  Cannot redeclare class Items in /home/cheminve/public_html/inc/items_core.php on line 3
+[18-Apr-2018 23:38:50 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cheminve/public_html/configg.php on line 40
+[18-Apr-2018 23:38:50 UTC] PHP Fatal error:  Cannot redeclare class Items in /home/cheminve/public_html/inc/items_core.php on line 3
+[18-Apr-2018 23:39:04 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cheminve/public_html/configg.php on line 40
+[18-Apr-2018 23:39:04 UTC] PHP Fatal error:  Cannot redeclare class Items in /home/cheminve/public_html/inc/items_core.php on line 3
+[18-Apr-2018 23:39:53 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cheminve/public_html/configg.php on line 40
+[18-Apr-2018 23:39:53 UTC] PHP Fatal error:  Cannot redeclare class Items in /home/cheminve/public_html/inc/items_core.php on line 3
+[18-Apr-2018 23:40:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/cheminve/public_html/configg.php:40
+Stack trace:
+#0 /home/cheminve/public_html/items.php(3): require()
+#1 {main}
+  thrown in /home/cheminve/public_html/configg.php on line 40
+[18-Apr-2018 23:40:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/cheminve/public_html/configg.php:40
+Stack trace:
+#0 /home/cheminve/public_html/items.php(3): require()
+#1 {main}
+  thrown in /home/cheminve/public_html/configg.php on line 40
+[18-Apr-2018 23:40:51 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cheminve/public_html/configg.php on line 40
+[18-Apr-2018 23:40:51 UTC] PHP Fatal error:  Cannot redeclare class Items in /home/cheminve/public_html/inc/items_core.php on line 3
+[18-Apr-2018 23:41:03 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cheminve/public_html/configg.php on line 40
+[18-Apr-2018 23:41:03 UTC] PHP Fatal error:  Cannot redeclare class Items in /home/cheminve/public_html/inc/items_core.php on line 3
+[18-Apr-2018 23:41:22 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cheminve/public_html/configg.php on line 40
+[18-Apr-2018 23:41:22 UTC] PHP Fatal error:  Cannot redeclare class Items in /home/cheminve/public_html/inc/items_core.php on line 3
+[18-Apr-2018 23:41:41 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cheminve/public_html/configg.php on line 40
+[18-Apr-2018 23:41:41 UTC] PHP Fatal error:  Cannot redeclare class Items in /home/cheminve/public_html/inc/items_core.php on line 3
+[19-Apr-2018 00:10:02 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cheminve/public_html/configg.php on line 40
+[19-Apr-2018 00:10:02 UTC] PHP Fatal error:  Cannot redeclare class Items in /home/cheminve/public_html/inc/items_core.php on line 3
+[19-Apr-2018 00:10:21 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cheminve/public_html/configg.php on line 40
+[19-Apr-2018 00:10:21 UTC] PHP Fatal error:  Cannot redeclare class Items in /home/cheminve/public_html/inc/items_core.php on line 3
+[19-Apr-2018 00:10:23 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cheminve/public_html/configg.php on line 40
+[19-Apr-2018 00:10:23 UTC] PHP Fatal error:  Cannot redeclare class Items in /home/cheminve/public_html/inc/items_core.php on line 3
+[19-Apr-2018 00:13:00 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cheminve/public_html/configg.php on line 40
+[19-Apr-2018 00:13:00 UTC] PHP Fatal error:  Cannot redeclare class Items in /home/cheminve/public_html/inc/items_core.php on line 3
+[19-Apr-2018 00:36:24 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cheminve/public_html/configg.php on line 40
+[19-Apr-2018 00:36:24 UTC] PHP Fatal error:  Cannot redeclare class Items in /home/cheminve/public_html/inc/items_core.php on line 3
